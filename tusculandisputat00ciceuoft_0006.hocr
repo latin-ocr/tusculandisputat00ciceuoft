@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculandisputat00ciceuoft_0006.png"; bbox 0 0 1471 2585; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 419 843 846 1134">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 843 846 1119">
+     <span class='ocr_line' id='line_1_1' title="bbox 450 843 846 1004; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 450 843 846 1004; x_wconf 47' lang='lat' dir='ltr'><strong>102qu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 419 983 800 1134; baseline 0.011 -37.269"><span class='ocrx_word' id='word_1_2' title='bbox 419 983 800 1134; x_wconf 53' lang='lat' dir='ltr'><strong>s&gt;fs&lt;2f⁰70</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 416 1079 1057 1301">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 416 1079 1057 1301">
+     <span class='ocr_line' id='line_1_3' title="bbox 425 1079 828 1192; baseline -0.009 0.596"><span class='ocrx_word' id='word_1_3' title='bbox 425 1079 507 1192; x_wconf 47' lang='lat' dir='ltr'><strong>ds</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 650 1166 828 1190; x_wconf 76' lang='lat' dir='ltr'>LONDON.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 416 1214 1057 1252; baseline 0.002 -8"><span class='ocrx_word' id='word_1_5' title='bbox 416 1222 575 1245; x_wconf 57' lang='lat' dir='ltr'><strong>munt-:1³1¹</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 591 1214 619 1244; x_wconf 69' lang='lat' dir='ltr'><strong>Sc</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 636 1222 851 1251; x_wconf 61' lang='lat' dir='ltr'><strong>mvmo‘rmw,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 866 1223 1057 1252; x_wconf 62' lang='lat' dir='ltr'><strong>munnam,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 550 1269 928 1301; baseline 0.003 -3"><span class='ocrx_word' id='word_1_9' title='bbox 550 1277 601 1298; x_wconf 70' lang='grc' dir='ltr'><strong>ετ.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 621 1269 750 1299; x_wconf 71' lang='grc' dir='ltr'><strong>,1οηΝέ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 771 1277 928 1301; x_wconf 53' lang='lat' dir='ltr'><strong>sautum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 930 1061 968 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 930 1061 968 1131">
+     <span class='ocr_line' id='line_1_6' title="bbox 930 1061 968 1131; baseline 0 -66"><span class='ocrx_word' id='word_1_12' title='bbox 930 1061 968 1131; x_wconf 46' lang='lat' dir='ltr'><strong>„Z</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
